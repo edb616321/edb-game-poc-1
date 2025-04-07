@@ -37,10 +37,15 @@ The Jasper9 project follows these development principles:
 2. **Prefab-Based Architecture**: Game elements are created as prefabs for consistency
 3. **Optimized for Web**: All assets and scripts are optimized for web performance
 4. **React Integration**: The game is designed to be embedded in a React application
+5. **Security-First**: Credentials are managed securely following best practices
 
 ## Installation & Setup
 
 Detailed setup instructions for both development and deployment will be added as the project progresses.
+
+### Credentials Management
+
+This project uses environment variables for secure credential storage. Security documentation is maintained separately and not included in this repository for security reasons. Contact the project maintainer for access to security documentation.
 
 ## License
 
@@ -48,4 +53,4 @@ This project is proprietary. All rights reserved.
 
 ---
 
-© 2025 Jasper9 Development Team
+ 2025 Jasper9 Development Team
